@@ -5,6 +5,6 @@
     "micro": "latest"
   },
   "scripts": {
-    "start": "micro"
+    "start": "node app"
   }
 }
