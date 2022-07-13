@@ -6,5 +6,9 @@
   },
   "scripts": {
     "start": "node app"
-  }
+  },
+  "main": "index.js",
+  "author": "fsj",
+  "license": "ISC",
+  "description": ""
 }
